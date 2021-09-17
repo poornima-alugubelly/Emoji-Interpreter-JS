@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+.emojis {
+  font-size: 3rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  margin: auto;
+}
